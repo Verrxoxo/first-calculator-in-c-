@@ -1,0 +1,14 @@
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.AssemblyInfoInputs.cache
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.AssemblyInfo.cs
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.csproj.CoreCompileInputs.cache
+C:\Users\kossakowska\source\repos\calc2\calc2\bin\Debug\net8.0\calc2.exe
+C:\Users\kossakowska\source\repos\calc2\calc2\bin\Debug\net8.0\calc2.deps.json
+C:\Users\kossakowska\source\repos\calc2\calc2\bin\Debug\net8.0\calc2.runtimeconfig.json
+C:\Users\kossakowska\source\repos\calc2\calc2\bin\Debug\net8.0\calc2.dll
+C:\Users\kossakowska\source\repos\calc2\calc2\bin\Debug\net8.0\calc2.pdb
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.dll
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\refint\calc2.dll
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.pdb
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\calc2.genruntimeconfig.cache
+C:\Users\kossakowska\source\repos\calc2\calc2\obj\Debug\net8.0\ref\calc2.dll
