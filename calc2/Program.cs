@@ -20,7 +20,7 @@ namespace calc2
 
 
                 // Rozdělení výrazu na čísla a operátory
-                string[] casti = vyraz.Split(new char[] { '+', '-', '*', '/', '%', '\\', '‖' }, StringSplitOptions.RemoveEmptyEntries);
+                string[] casti = vyraz.Split(new char[] { '+', '-', '*', '/', '%' }, StringSplitOptions.RemoveEmptyEntries);
 
                 if (casti.Length == 2)
                 {
@@ -94,10 +94,6 @@ namespace calc2
                         else
                             Console.Write("Chyba: Dělení nulou!");
                         return 0;
-                case '\\':
-                        return Math.Floor(cislo1 / cislo2); // Modulo zaokrouhlení dolů
-                case '‖':
-                        return cislo1 - Math.Floor(cislo1 / cislo2) * cislo2; // Modulo zaokrouhlení k nule
                 default:
                         throw new ArgumentException("Neplatný operátor.");
                 }
